@@ -1,2 +1,9 @@
-# Tic-Tac-Toe-Game-
-In this Game I have developed a game using HTML,CSS and JS 
+# Tic Tac Toe Game
+
+A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+
+# Features
+- Player X and O turns
+- Winner detection
+- Draw detection
+- Restart game
